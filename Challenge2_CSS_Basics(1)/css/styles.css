@@ -112,7 +112,18 @@ header {
   background: #296474;
     color: #FFDD4A;
 }
+.workbtn {
+    color: #FFDD4A;
+  background: #296474;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.workbtn:hover {
+      background: rgba(47, 48, 97, 80%);
 
+}
 
 
 /* Education
